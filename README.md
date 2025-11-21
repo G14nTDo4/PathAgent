@@ -14,8 +14,8 @@ Official code implementation for paper "PathAgent: Toward Interpretable Analysis
 
 ## Overview
 
-![architecture](./assets/Overview.pdf)
+![architecture](./assets/Overview.png)
 <p align="center"><i>Overview of PathAgent</i></p>
 
-![architecture](./assets/MotivationMap.pdf)
+![architecture](./assets/MotivationMap.png)
 <p align="center"><i>Illustration of current multi-modal computational pathology models</i></p>
