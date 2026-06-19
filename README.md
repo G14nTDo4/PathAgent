@@ -1,4 +1,4 @@
-# PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning
+# PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning [ECCV 2026]
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://github.com/G14nTDo4/PathAgent)
 [![arXiv](https://img.shields.io/badge/arXiv-2511.17052-b31b1b.svg)](https://arxiv.org/abs/2511.17052)
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/pdf/2511.17052.pdf)
@@ -195,10 +195,11 @@ python eval/metics.py \
 
 ## Citation
 ```bibtex
-@article{chen2025pathagent,
-      title={PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning}, 
-      author={Jingyun Chen and Linghan Cai and Zhikang Wang and Yi Huang and Songhan Jiang and Shenjin Huang and Hongpeng Wang and Yongbing Zhang},
-      journal={arXiv preprint arXiv:2511.17052},
-      year={2025}
+@inproceedings{chen2026pathagent,
+  title={Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning},
+  author={Jingyun Chen and Linghan Cai and Zhikang Wang and Yi Huang and Songhan Jiang and Shenjin Huang and Hongpeng Wang and Yongbing Zhang},
+  booktitle={European Conference on Computer Vision},
+  year={2026},
+  organization={Springer}
 }
 ```
