@@ -23,7 +23,7 @@ The contributions of PathAgent can be summarized in three aspects:
 3. Enhanced Evidence Retrieval: We improve the accuracy of evidence capture by simplifying the query strategy of the Navigator.
 
 ![architecture](./assets/CaseStudy.png)
-<p align="center"><i>Illustration of PathAgent's inference procedure</i></p>
+<p align="center"><i>Figure. Illustration of PathAgent's inference procedure.</i></p>
 
 ## 1. Installation 
 
