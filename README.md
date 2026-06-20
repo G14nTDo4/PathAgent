@@ -14,7 +14,7 @@ Official code implementation for paper "PathAgent: Toward Interpretable Analysis
 
 ## Overview
 
-PathAgent is the first training-free interactive agent specifically designed for WSI analysis. By coordinating off-the-shelf pathology models through an agent, it yields traceable decisions and competitive accuracy, suggesting a pragmatic route of computational pathology.
+PathAgent is the first training-free interactive agent specifically designed for whole-slide pathology image (WSI) analysis. By coordinating off-the-shelf pathology models through an agent, it yields traceable decisions and competitive accuracy, suggesting a pragmatic route of computational pathology.
 
 The contributions of PathAgent can be summarized in three aspects:
 
