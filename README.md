@@ -11,6 +11,7 @@ Official code implementation for paper "PathAgent: Toward Interpretable Analysis
 
 >Jingyun Chen, Linghan Cai, Zhikang Wang, Yi Huang, Songhan Jiang, Shenjin Huang, Hongpeng Wang, Yongbing Zhang
 
+★ Quick start pathology agent: [https://github.com/G14nTDo4/Awesome-Pathology-Agents](https://github.com/G14nTDo4/Awesome-Pathology-Agents)
 
 ## Overview
 
